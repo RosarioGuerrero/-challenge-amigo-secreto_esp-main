@@ -20,13 +20,6 @@ No se requieren dependencias adicionales. Simplemente clona este repositorio y a
 4. Cuando tengas todos los nombres ingresados, presiona "Sortear Amigo" para seleccionar uno al azar.
 5. El resultado se mostrará en la pantalla.
 
-## Capturas de pantalla
-### Agregar nombres
-![Agregar nombres](assets/agregar_nombres.png)
-
-### Sorteo del amigo secreto
-![Sorteo](assets/sorteo_amigo.png)
-
 ## Archivos del proyecto
 - `index.html`: Estructura HTML de la aplicación.
 - `style.css`: Estilos para la interfaz.
@@ -34,4 +27,3 @@ No se requieren dependencias adicionales. Simplemente clona este repositorio y a
 
 ## Autor
 Proyecto desarrollado como parte de un ejercicio de challenge.
-
